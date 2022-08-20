@@ -26,9 +26,11 @@ The following tasks are to be performed:
 <li>Visualize the change in a stock’s volume being traded, over time?</li>
 <li>What was the moving average of various stocks?</li>
 <li>What was the daily return average of a stock?</li>
-<li>Adda new column ‘Trend’ whose values are based on the 'Daily Return'.<li>
+<li>Adda new column ‘Trend’ whose values are based on the 'Daily Return'.</li>
 <li>Visualize trend frequency through a Pie Chart.</li>
 <li>What was the correlation between the daily returns of different stocks?</li>
 </ul>
+<br>
+<b>Note:</b> This is Mini-Project-1, which is part of my Edureka Internship. It involves of completing above mentioned tasks of various stocks and I've found that there is no correlatioin between their daily returns.
 
 </body> </html>
